@@ -17,4 +17,4 @@ Experienced professional transitioning from 20 years of retail operations into C
 ---
 
 ### 📂 Featured Portfolio Repositories
-- [Google-Cybersecurity-Portfolio](https://github.com) - Central hub for all assets.
+- [Google-Cybersecurity-Portfolio](https://github.com/cody-marshall-cyber/Google-Cybersecurity-Portfolio) - Central hub for all assets.
