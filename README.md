@@ -1,16 +1,20 @@
-## Hi there 👋
+# Cody Marshall | Logic Architect 🛡️
 
-<!--
-**cody-marshall-cyber/cody-marshall-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### High-Performance Cybersecurity Deployment (92% Avg)
+Experienced professional transitioning from 20 years of retail operations into Cybersecurity. I specialize in infrastructure logic, risk mitigation, and data-driven threat analysis.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Completing Google Cybersecurity Professional Certificate & Security+ Prep.
+- ⚡ **Performance:** Maintaining a 92% average across all technical modules.
+- 📍 **Location:** DFW Metroplex (Richardson/Plano/Garland).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack (M1-M7 Certified)
+- **Languages:** Python (Automation), SQL (Log Auditing).
+- **Environment:** Linux (CLI), Windows Security.
+- **Tools:** NIST CSF, SIEM (Splunk/Chronicle), Wireshark, tcpdump.
+
+---
+
+### 📂 Featured Portfolio Repositories
+- [Google-Cybersecurity-Portfolio](https://github.com) - Central hub for all assets.
