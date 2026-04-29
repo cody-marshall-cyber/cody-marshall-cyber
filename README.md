@@ -9,7 +9,7 @@ Experienced professional transitioning from 20 years of retail operations into C
 
 ---
 
-### 🛠️ Technical Stack (M1-M7 Certified)
+### 🛠️ Technical Stack Google Cybersecurity (C1-C7 Certified) 
 - **Languages:** Python (Automation), SQL (Log Auditing).
 - **Environment:** Linux (CLI), Windows Security.
 - **Tools:** NIST CSF, SIEM (Splunk/Chronicle), Wireshark, tcpdump.
