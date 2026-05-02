@@ -1,17 +1,17 @@
-# Cody Marshall | Logic Architect 🛡️
+# Cody Marshall | Certified Cybersecurity Specialist
 
-### High-Performance Cybersecurity Deployment (92% Avg)
-Experienced professional transitioning from 20 years of retail operations into Cybersecurity. I specialize in infrastructure logic, risk mitigation, and data-driven threat analysis.
+### Google Professional Certified | 20+ Years Operational Experience
+Technical specialist focused on enterprise-grade security operations, network defense, and uncudent response. this repository serves as a centralized hub for my professional cybersecurity portfolio and technical assessments
 
-- 🔭 **Current Focus:** Completing Google Cybersecurity Professional Certificate & Security+ Prep.
-- ⚡ **Performance:** Maintaining a 92% average across all technical modules.
-- 📍 **Location:** DFW Metroplex (Richardson/Plano/Garland).
-
+### Professional Status
+-  **Google Cybersecurity Professional Certificate:** COMPLETED (May 2026)
+-  **CompTIA Security+ SOY-701** IN PROGRESS (Target: end of May 2026)
+  
 ---
 
 ### 🛠️ Technical Stack Google Cybersecurity (C1-C7 Certified) 
 - **Languages:** Python (Automation), SQL (Log Auditing).
-- **Environment:** Linux (CLI), Windows Security.
+- **Environment:** Linux (CLI), Windows Security, Virtualizaton 
 - **Tools:** NIST CSF, SIEM (Splunk/Chronicle), Wireshark, tcpdump.
 
 ---
