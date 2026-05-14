@@ -5,7 +5,7 @@ Technical specialist focused on enterprise-grade security operations, network de
 
 ### Professional Status
 -  **Google Cybersecurity Professional Certificate:** COMPLETED (May 2026)
--  **CompTIA Security+ SOY-701** IN PROGRESS (Target: end of May 2026)
+-  **CompTIA Security+ SOY-701** IN PROGRESS (Target: June 4th 2026)
   
 ---
 
